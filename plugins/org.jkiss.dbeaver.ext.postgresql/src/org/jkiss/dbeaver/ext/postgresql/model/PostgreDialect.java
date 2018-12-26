@@ -50,6 +50,8 @@ public class PostgreDialect extends JDBCSQLDialect {
     or we can just make some grouping like this
     https://docs.google.com/spreadsheets/d/1Bb9b52FjyWV49yOmoDT9C85cwIXoR-xrVVPfLwSIRYk/edit?usp=sharing
 
+    probably should go the simple way
+
     and parse'em later against,
     the available list of native SQL KW from super class
     */
